@@ -1,5 +1,7 @@
 # Lâmpada
 Miniprojeto com JS, HTML e CSS.
+* Link para o projeto em funcionamento: https://rodrigod324.github.io/lampada/
+
 * Feito com base neste vídeo: https://www.youtube.com/watch?v=4r0zOW9Zn-Y
 * Link do GitHub: https://github.com/fernandoleonid/mini-projetos-js/tree/master/01-lamp
 <br>
