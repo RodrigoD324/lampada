@@ -4,5 +4,5 @@ Miniprojeto com JS, HTML e CSS.
 * Link do GitHub: https://github.com/fernandoleonid/mini-projetos-js/tree/master/01-lamp
 <br>
 <div align="center">
-<img src ="https://github.com/RodrigoD324/l-mpada/blob/master/lampada.gif" width="1000px" />
+<img src ="https://github.com/RodrigoD324/lampada/blob/master/lampada.gif" width="1000px" />
  </div>
